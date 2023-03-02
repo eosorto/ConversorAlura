@@ -16,6 +16,6 @@
 
 *[<Strong>javac Principal.java<Strong>](#Título-e-imagen-de-portada)
 
-*[<Strong>java principal<Strong>](#Título-e-imagen-de-portada)
+*[<Strong>java Principal<Strong>](#Título-e-imagen-de-portada)
 
 
